@@ -2,7 +2,6 @@
 
 void	ft_putnl(char nb)
 {
-
 	write(1, &nb, 1);
 	write(1, "\n", 1);
 }
