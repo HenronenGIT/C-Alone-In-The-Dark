@@ -26,3 +26,5 @@ https://github.com/barimehdi77/42-piscine-exam
 
 https://github.com/jraleman/42.Exam-C
 
+https://github.com/fwuensche/42-exam-miner
+
