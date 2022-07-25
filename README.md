@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1494587351196-bbf5f29cff42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80">
+<p align="left"><img src="./README/pics/dark.jpg" ></p>
 
 # C Exam Alone In The Dark
 
