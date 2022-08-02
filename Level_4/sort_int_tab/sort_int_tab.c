@@ -14,7 +14,8 @@ void	sort_int_tab(int *tab, unsigned int size)
 			tab[i + 1] = temp;
 			i = 0;
 		}
-		i++;
+		else
+			i++;
 	}
 }
 

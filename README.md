@@ -19,6 +19,7 @@
 | sort_int_tab | ✅ | In-place sorting algo |
 | ft_list_foreach | ✅ | Linked list manipulation |
 | add_prime_sum | ✅ | Prime numbers |
+| rev_wstr | ✅ |  |
 |  |  |  |
 
 Subject resources:
@@ -26,3 +27,4 @@ https://github.com/barimehdi77/42-piscine-exam
 
 https://github.com/jraleman/42.Exam-C
 
+https://github.com/kibotrel/42-Exams
